@@ -1,2 +1,2 @@
 # 90 websites in 90 days
-I'll create 90 sites during 90 days, releasing 1 per day. This is the homepage of the project.
+Irei lançar um site por dia, durante 90 dias. A cada site, contarei um pouco do que aprendi.
