@@ -43,7 +43,7 @@ body {
  
 a
  { 
-    color: white;
+    color: #efd8fc;
  }
 
  a:hover
@@ -54,7 +54,7 @@ a
 
 .content a {
     font-size: 20px;
-    color: white;
+    color: #efd8fc;
     align-items: center;
 }
 
@@ -84,7 +84,7 @@ a
 
 .socialmedia a {
     font-size: 50px;
-    color: white;
+    color: whitesmoke;
     align-items: center;
     text-decoration: none;
 }
