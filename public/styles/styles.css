@@ -1,0 +1,95 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap';
+
+header {
+    background-color: rgba(36, 36, 36, 0.678);
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a {
+    color: whitesmoke;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #dea5ff;
+    transition: 200ms;
+}
+
+header span a {
+    color: whitesmoke;
+    align-items: center;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+header span a:hover {
+    color: #dea5ff;
+    transition: 200ms;
+}
+
+body {
+    background-color: rgb(10, 10, 10);
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+    color: whitesmoke;
+    font-size: 20px;
+    margin: 0;
+    height: 100vh;
+}
+ 
+a
+ { 
+    color: white;
+ }
+
+ a:hover
+{ 
+    color: #dea5ff;
+    transition: 200ms;  
+}
+
+.content a {
+    font-size: 20px;
+    color: white;
+    align-items: center;
+}
+
+.content a:hover {
+    transition: 200ms;
+    color: #dea5ff;
+}
+
+.content {
+    padding-top: 3%;
+    align-items: center;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.content h2 {
+    font-size: 32px;
+    text-align: center;
+}
+
+.photo {
+    width: 20%;
+    border: #dea5ff solid;
+    border-radius: 10%;
+}
+
+.socialmedia a {
+    font-size: 50px;
+    color: white;
+    align-items: center;
+    text-decoration: none;
+}
+
+.socialmedia a:hover {
+    transition: 200ms;
+    color: #dea5ff;
+}
