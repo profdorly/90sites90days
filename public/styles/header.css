@@ -1,0 +1,32 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap';
+
+header {
+    background-color: rgba(36, 36, 36, 0.678);
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a {
+    color: whitesmoke;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #dea5ff;
+    transition: 200ms;
+}
+
+header span a {
+    color: whitesmoke;
+    align-items: center;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+header span a:hover {
+    color: #dea5ff;
+    transition: 200ms;
+}
