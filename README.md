@@ -9,5 +9,5 @@ Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo c
 
 ## Sites lançados até agora:
 
-* Site #01 - Calculadora
+* Site #01 - [Calculadora](https://github.com/dorlyneto/90sites90days/tree/master/90sites/01-calculadora)
 * Site #00 - [Home do projeto](https://www.dorlyneto.com)

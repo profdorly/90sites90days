@@ -40,6 +40,6 @@ No vídeo, após criar o arquivo ```style.css```, na hora de fazer a estilizaç�
 
 Sempre tive atritos com o Terminal, desde adolescente. Talvez por ser um cara mais visual, a noção de resolver as coisas apenas em linhas me deixa meio cabisbaixo. Mas sei que é apenas a falta de prática. Esse desafio dos 90 site sem 90 dias veio justamente para me ajudar a vencer este problema.
 
-Neste desafio, eu desejo me reconciliar com o Terminal. De fato, ainda não tomei um ação prática em relação a isso, mas o meu plano é usar o Terminal para criar cada Git e subi-los para o Github. Já é um começo.
+Neste desafio, eu desejo me reconciliar com o Terminal. De fato, ainda não tomei um ação prática em relação a isso, mas o meu plano é usar o Terminal para criar cada commit e subi-los para o Github. Já é um começo.
 
 São 23:33 e o primeiro dia de desafio está concluído dentro do prazo! Ótimos aprendizados, rumo ao próximo nível. 🚀
