@@ -1,5 +1,5 @@
 # Desafio: desenvolver um site por dia durante 90 dias
-Olá! Me chamo Dorly e há 10 anos trabalho em startups de tecnologia, tendo executado várias funções entre marketing e produto. 
+Olá! Me chamo [Dorly](https://www.linkedin.com/in/dorlyneto/) e há 10 anos trabalho em startups de tecnologia, tendo executado várias funções entre marketing e produto. 
 
 Eu sei apenas o básico do básico de programação. Inspirado pelo meu trabalho no desenvolvimento dos devs da [Rocketseat](https://rocketseat.com.br/), e no intuito de acelerar o meu aprendizado, decidi desenvolver um site por dia, pelos próximos 90 dias.
 
