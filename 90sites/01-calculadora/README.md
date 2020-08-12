@@ -1,6 +1,8 @@
 ##### Desafio: desenvolvendo um site por dia por 90 dias 
 
-# [Site #01 - Calculadora](https://www.dorlyneto.com/90sites/01-calculadora/)
+# Site #01 - Calculadora
+
+Acesse: https://www.dorlyneto.com/90sites/01-calculadora/
 
 ## Resumo importante sobre este desafio
 
