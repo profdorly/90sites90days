@@ -37,12 +37,3 @@ Reza a lenda que as empresas mantenedoras dos navegadores poderão parar de usar
 ---
 
 That's all, folks. Até amanhã, com o próximo site!
-
-
-
-
-
-
-
-
-

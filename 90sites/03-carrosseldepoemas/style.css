@@ -1,0 +1,125 @@
+html {
+    box-sizing: border-box;
+    background-color: whitesmoke;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+:root {
+	--shadow: 2rem;
+	--carousel-width: 80vw;
+	--carousel-height: calc(calc(calc(9 / 16) * var(--carousel-width)) + var(--shadow));
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+}
+
+.carousel {
+	width: var(--carousel-width);
+	height: var(--carousel-height);
+	contain: strict;
+	margin-top: 1vw;
+	border-radius: 3vmin;
+}
+
+.scroll {
+	display: flex;
+	align-items: center;
+	overflow-y: hidden;
+	width: 100%;
+	height: 100%;
+	-webkit-overflow-scrolling: touch;
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+	scroll-behavior: smooth;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.scroll::-webkit-scrollbar {
+	display: none;
+}
+
+.scroll-item {
+	width: var(--carousel-width);
+}
+
+.scroll-item>img {
+	object-fit: contain;
+	width: 100%;
+	box-shadow: 0 var(--shadow) 1rem -2rem;
+	rgba(0, 0, 0, 0.2);
+	border-radius: 1rem;
+}
+
+.scroll-item>img:active {
+	cursor: grabbing;
+	cursor: -webkit-grabbing;
+}
+
+.scroll-item-outer {
+	margin: 1vw;
+}
+
+.scroll-item-outer:first-of-type {
+	margin: 0;
+}
+
+@supports (scroll-snap-align: start) {
+	.scroll {
+		scroll-snap-type: x mandatory;
+	}
+	.scroll-item-outer {
+		scroll-snap-align: center;
+	}
+}
+
+@supports not (scroll-snap-align: start) {
+	.scroll {
+		-webkit-scroll-snap-type: mandatory;
+		scroll-snap-type: mandatory;
+		-webkit-scroll-snap-destination: 0 50%;
+		scroll-snap-destination: 0 50%;
+		-webkit-scroll-snap-points-x: repeat(100%);
+		scroll-snap-points-x: repeat(100%);
+	}
+	.scroll-item-outer {
+		scroll-snap-coordinate: 0 0;
+	}
+}
+
+#navigate {
+	display: flex;
+	justify-content: space-around;
+	margin: auto;
+	width: var(--carousel-width);
+	margin-top: 1vw;
+}
+
+#navigate a {
+	text-decoration: none;
+	color: #333;
+	font-size: 1.2rem;
+	background: #ddd;
+	z-index: 1;
+	line-height: 0.6rem;
+	border-radius: 1rem;
+	padding: 1rem;
+	transition: box-shadow 0.5s;
+}
+
+#navigate a:hover {
+	box-shadow: 0 0 2rem -6px;
+}
