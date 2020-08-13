@@ -39,7 +39,7 @@ Não quis cair no erro de me encantar pela abundância de templates. Escolhi ape
 Durante meu estudo, fui guardando uma lista de templates de carrosséis legais, sem a necessidade de utilizar Javascript. Compartilho com vocês os principais:
 
 * [O que eu usei como base](https://codepen.io/FabianK/pen/zJLLrR)
-* [O que eu quase usei] (https://codepen.io/SitePoint/pen/MyPVdK)
+* [O que eu quase usei](https://codepen.io/SitePoint/pen/MyPVdK)
 * [O que eu poderia ter usado também](https://codepen.io/cavico/pen/yOjwya)
 * [O que foi criado pelo Maykão, professor da Rocketseat](https://www.youtube.com/watch?v=SGwHpzgqzgk)
 * [O que me dá várias opções de transição](https://codeburst.io/how-to-pure-css-carousel-ce1a8cb231c8)
