@@ -78,7 +78,11 @@ main {
     position: relative;
     display: inline-block;
   }
-  
+ 
+#pic-hover, #gif-hover {
+  max-width: 100%;
+}
+
   #hover {
     background:transparent;
     border:0;
