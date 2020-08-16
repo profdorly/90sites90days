@@ -9,6 +9,7 @@ Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo c
 
 ## Sites lançados até agora:
 
+* Site #06 - [Relógio analógico](https://github.com/dorlyneto/90sites90days/tree/master/90sites/06-relogioanalogico)
 * Site #05 - [Bom dia grupo](https://github.com/dorlyneto/90sites90days/tree/master/90sites/05-bomdiagrupo)
 * Site #04 - [Catavento](https://github.com/dorlyneto/90sites90days/tree/master/90sites/04-catavento)
 * Site #03 - [Carrossel de poemas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/03-carrosseldepoemas)

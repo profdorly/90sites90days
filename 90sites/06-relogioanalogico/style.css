@@ -7,7 +7,7 @@ html, body {
 }
 
 #canvas {
-    width:30vw;
+    width:50vw;
     position: absolute;
     top:0;
     bottom: 0;

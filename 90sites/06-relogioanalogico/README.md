@@ -21,19 +21,19 @@ Por isso meu próximo site é um relógio analógico. É a minha contribuição 
 
 Como de costume, após ter a ideia de fazer um relógio analógico, fui ao requisitado Google encontrar tutoriais que me auxiliassem nesta missão. Encontrei várias formas diferentes de fazer a aplicação, mas uma em especial me chamou mais a atenção. 
 
-### A tag ```<canvas>``` é muito legal!
+### A tag ```<canvas>``` é muito legal
 
 Usei como base o tutorial criado pela [Bluelime Learning Solutions](https://bluelimelearningsolutions.com/), em seu curso [JavaScript for beginners: Create 27 projects from scratch](https://www.udemy.com/course/javascript-for-beginners-create-27-projects-from-scratch/). De cara fiquei impressionado com a tag [```<canvas>```](https://www.w3schools.com/html/html5_canvas.asp), por me permitir desenhar o que eu quiser, de acordo com a programação feita pelo Javascript. 
 
 Eu não tinha noção do poder de estilização que eu poderia encontrar com o Javascript. Ao iniciar o tutorial e começar o desenho do relógio, me impresisonava a cada variável ou função declarada.
 
-### Eu (acho) que estou começando a entender a responsividade.
+### Eu (acho) que estou começando a entender a responsividade
 
 No meu [site #04](https://github.com/dorlyneto/90sites90days/tree/master/90sites/04-catavento), o dev [Yuri Faria](https://github.com/Windows87) fez uma [pull request](https://github.com/dorlyneto/90sites90days/pull/2) me mostrando como deixar o site responsivo. Foi baseado nisso que decidi buscar mais a fundo como fazer isso acontecer para este site #06. Para deixar responsivo o meu relógio analógico, utilizei o seguinte código no CSS:
 
 ```
 #canvas {
-    width:30vw;
+    width:50vw;
     position: absolute;
     top:0;
     bottom: 0;
