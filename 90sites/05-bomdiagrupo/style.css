@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body{
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    height: 100%;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    background: #fff;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: auto;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
+
+h1{
+    font-size: 32px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+    background: #7700ff;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: center;
+}
+
+#weekday{
+    width: 100%;
+    font-size: 60px;
+    color: #000000;
+    font-weight: 800;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+#gif{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+  
+img{
+    width: 500px;
+    height: auto;
+}
