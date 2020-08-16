@@ -47,7 +47,7 @@ canvas {
 }
 ```
 
-Funcionou 100%! Ainda não sei se é a melhor forma de fazer isso, então fiquem à vontade para fazer uma PR nesse projeto, melhorando meu código.
+Funcionou 100%! Ainda não sei se é a melhor forma de fazer isso, então fiquem à vontade para fazer uma PR nesse projeto, melhorando meu código. Provavelmente é possível fazer essa aplicação de forma melhor e mais simples; um dia eu chego lá!
 
 ---
 
