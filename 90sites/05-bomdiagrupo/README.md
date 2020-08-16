@@ -2,7 +2,7 @@
 
 # [Site #05 - Bom dia grupo](https://www.dorlyneto.com/90sites/05-bomdiagrupo)
 
-## Você se irrita quando recebe aquela mensagem de "bom dia grupo"? Eu não, inclusive adoro!
+## Você se irrita quando recebe mensagem de "bom dia grupo"? Eu não, inclusive adoro!
 
 Se vocês repararem bem, o WhatsApp mudou bastante a forma como nos comunicamos on-line. Não é mais algo rude ir direto ao ponto ao falar com outra pessoa, sem nem ao menos falar bom dia. Comigo é diferente. Ainda gosto de iniciar minha conversas perguntando como a outra pessoa está, e desejando que ela tenha um bom dia.
 
@@ -26,7 +26,7 @@ Somando o tutorial feito pelo Romeo e a ajuda dos universitários, este site fic
 
 ## O que aprendi?
 
-### Propriedades do CSS são entrelaçadas
+### Propriedades do CSS são super entrelaçadas
 
 A palavra cascata do CSS não está lá de bobeira. Você começa escrevendo as propriedades, elas vão cascateando e, quando menos você esperar, já está tudo bugado. Por exemplo, aquela classe que você não consegue alinhar por nada, na verdade está assim pois tem algo que você colocou no body que está impedindo a estilização. 
 
