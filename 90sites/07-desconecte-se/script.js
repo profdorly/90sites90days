@@ -1,9 +1,7 @@
 let isOffline = false;
 window.addEventListener('load', checkConnectivity);
 
-document.getElementById("showImage").onclick = function() {
-  document.getElementById("theImage").style.visibility = "visible";
-}
+document.getElementById("gif").style.display = "none"; 
 
 function checkConnectivity() {
   updateStatus();
