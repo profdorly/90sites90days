@@ -43,3 +43,7 @@ img{
     width: 10rem;
     height: auto;
 }
+
+#theImage { 
+    visibility: hidden; 
+}
