@@ -4,7 +4,7 @@ html, body {
     background-color: #ffffff;    
     font-size: calc(2.5em + 4.2vmin);
     font-family: 'Poppins', sans-serif;
-    margin: auto;
+    margin: 0;
     max-width: 100%;
     width:100vw;
     height: 100%;

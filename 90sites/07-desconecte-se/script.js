@@ -1,6 +1,4 @@
 let isOffline = false;
-var img = document.createElement("img"); 
-img.src = "assets/respire.gif"; 
 window.addEventListener('load', checkConnectivity);
 
 
