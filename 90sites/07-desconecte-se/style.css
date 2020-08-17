@@ -45,5 +45,5 @@ img{
 }
 
 #theImage { 
-    display:none; 
+    visibility: hidden; 
 }
