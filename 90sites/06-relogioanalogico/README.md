@@ -15,7 +15,7 @@ Sim, é muito mais fácil. Só que aprender a identificar as horas em um formato
 
 Por isso meu próximo site é um relógio analógico. É a minha contribuição para sempre conectarmos o passado com o futuro.
 
-* [Acesse o site #06 - Relógio analógico](https://www.dorlyneto.com/90sites/05-bomdiagrupo)
+* [Acesse o site #06 - Relógio analógico](https://www.dorlyneto.com/90sites/06-relogioanalogico)
 
 ## O que aprendi na construção deste site?
 
