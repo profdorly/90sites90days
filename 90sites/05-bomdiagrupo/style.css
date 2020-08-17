@@ -47,9 +47,10 @@ h1{
     justify-content: center;
     align-items: center;
     padding: 25px;
+    
 }
   
 img{
-    width: 500px;
+    width: 30vw;
     height: auto;
 }
