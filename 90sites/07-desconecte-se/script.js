@@ -1,5 +1,10 @@
 let isOffline = false;
 window.addEventListener('load', checkConnectivity);
+var appCache = window.applicationCache;
+
+appCache.addEventListener</a> ('updateready', function(e) {
+		this.swapCache();
+});
 
 document.getElementById("gif").style.display = "none"; 
 
