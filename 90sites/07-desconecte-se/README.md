@@ -2,7 +2,7 @@
 
 # [Site #07 - Desconecte-se](https://www.dorlyneto.com/90sites/07-desconecte-se)
 
-## Que horas são?
+## Desconectar para conectar
 
 Já ouviram falar dos imigrantes digitais? É toda pessoa que nasceu em um mundo onde as tecnologias digitais ainda não eram tão presentes em quase todos os âmbitos de sua vida. Talvez você seja um.
 
