@@ -37,12 +37,8 @@ Eu comecei a fritar a cabeça para pensar no que poderia ser uma solução. Perg
 Para fazer funcionar, eu criei uma tag para abrir a imagem antes no HTML:
 ```<img id="gif" src="assets/respire.gif" />```
 
-Depois, configurei o CSS e o Javascript para a imagem ficar escondida:
-```#gif { 
-    visibility: hidden; 
-}
-```
-```document.getElementById("gif").style.display = "none"; ```
+Depois, configurei o Javascript para a imagem ficar escondida:
+```document.getElementById("gif").style.display = "none";```
 
 E funcionou! Foi uma felicidade sem tamanho perceber que eu já consigo pensar em um caminho de solução, buscar como executá-la e encontrar uma resposta plausível. Mesmo sendo um problema pequeno, isso aumenta a confiança e a motivação.
 
