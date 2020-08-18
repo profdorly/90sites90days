@@ -1,7 +1,7 @@
 let isOffline = false;
 window.addEventListener('load', checkConnectivity);
 
-document.getElementById("gif").style.display = "none"; 
+// document.getElementById("gif").style.display = "none"; 
 
 function checkConnectivity() {
   updateStatus();
