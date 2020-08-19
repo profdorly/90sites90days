@@ -1,0 +1,11 @@
+button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: #6eff8a;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0.5em;
+    font-size: 1.5em;
+    padding: 0 0.75em;
+  }
