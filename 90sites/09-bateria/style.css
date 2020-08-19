@@ -1,7 +1,5 @@
 html {
-  font-size: 10px;
-  background: url(https://i.imgur.com/b9r5sEL.jpg) bottom center;
-  background-size: cover;
+  font-size: 0.7rem;
 }
 
 body,html {
@@ -10,10 +8,22 @@ body,html {
   font-family: sans-serif;
 }
 
+.title > h1 { 
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background: #d5a3ff;
+  padding:10px;
+}
+
 .keys {
   display: flex;
   flex: 1;
-  min-height: 100vh;
+  flex-wrap: wrap;
+  /* min-height: 100vh; */
+  margin:10rem;
   align-items: center;
   justify-content: center;
 }
