@@ -26,9 +26,11 @@ Neste desafio, tomei conhecimento do elemento [```<kbd>```](https://www.w3school
 
 Eu não sei com o que estava na cabeça quando decidi entrar nessa jornada de fazer um site por dia durante 90 dias. Mentira, na verdade sei bem. O desafio vai me ajudar a criar a disciplina necessária para aprender a programar, mas também para tirar minhas ideias do papel.
 
-Eu sou uma pessoa que se motiva pela ação, e não só pelas ideias. Eu preciso concretizar algo para me motivar, nem que seja sites bobinhos como esse que estou fazendo. Mas já fazem 9 dias que minhas noites são, basicamente, focadas em estudar e desenvolver. Hoje senti o peso do cansaço.
+Eu sou uma pessoa que se motiva pela ação, e não só pelas ideias. Eu preciso concretizar algo para me motivar, nem que seja sites bobinhos como esse que estou fazendo. Mas já fazem 10 dias que minhas noites são, basicamente, focadas em estudar e desenvolver. Hoje senti o peso do cansaço.
 
 O que fazer nessas horas? A mesma coisa que já recomendo a todos os estudantes da [Rocketseat](https://www.rocketseat.com.br): criar momentos para descansar o cérebro. O ideal é que este momento contemple alguma atividade mecânica, feita com as mãos, que não envolva ficar numa outra tela (ou seja, não vale videogame! rs). Pode ser lavar a louça, varrer a casa, arrumar a cama ou organizar o armário. Pode ser meditar. Pode ser ler um livro (que não seja sobre código, pelo amor de Deus). Pode ser dobrar origami. 
+
+Todo processo de desenvolvimento precisa de descanso. Se você quer crescer seus músculos, não adianta só malhar e não descansar. Se quer correr uma maratona, não adianta gastar toda sua energia na largada, precisa equilibrar os sprints de velocidade com alguns mais lentos. Se quer desenvolver uma habilidade como programação, não adianta ficar horas e horas estudando se não deixa o seu cérebro descansar para assimilar o que foi visto até aqui.
 
 Não importa o que você vai fazer, desde que seja uma atividade mecânica, longe de uma tela, para fazer o seu cérebro descansar. 
 
