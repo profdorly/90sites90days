@@ -6,6 +6,7 @@ document.addEventListener('mouseover', function(e){
         
                 e.target.style.backgroundColor = "#ededed";
                 e.target.textContent = "POP!";
+                e.target.classList.add('ballon-pop');
                 popped++;
                 removeEvent(e);
                 makeBallonSound();
