@@ -72,3 +72,41 @@ h1{
     color:#ff3300;
     font-size:100px;
 }
+
+.modal-wrapper {
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  width: 90%;
+  max-width: 500px;
+  padding: 8px;
+}
+
+.modal p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.modal-button {
+  height: 40px;
+  width: 90%;
+  max-width: 300px;
+  background-color: #3f7abe;
+  border: 0;
+  color: white;
+  font-size: 18px;
+}

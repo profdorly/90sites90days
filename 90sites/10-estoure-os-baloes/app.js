@@ -6,10 +6,18 @@ document.addEventListener('mouseover', function(e){
         
                 e.target.style.backgroundColor = "#ededed";
                 e.target.textContent = "POP!";
+                e.target.classList.add('ballon-pop');
                 popped++;
                 removeEvent(e);
+                makeBallonSound();
                 checkAllPopped();
     }   
+});
+
+const modalButton = document.querySelector('.modal-button');
+
+modalButton.addEventListener('click', function() {
+  closeModal();
 });
 
 function removeEvent(e){
@@ -17,6 +25,16 @@ function removeEvent(e){
         
     })
 };
+
+function makeBallonSound() {
+  const audio = new Audio('pop.mp3');
+  audio.play();
+}
+
+function closeModal() {
+  const modal = document.querySelector('.modal-wrapper');
+  modal.style.display = 'none';
+}
 
 function checkAllPopped(){
     if (popped === 24){
