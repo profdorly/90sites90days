@@ -8,6 +8,7 @@ document.addEventListener('mouseover', function(e){
                 e.target.textContent = "POP!";
                 popped++;
                 removeEvent(e);
+                makeBallonSound();
                 checkAllPopped();
     }   
 });
@@ -17,6 +18,11 @@ function removeEvent(e){
         
     })
 };
+
+function makeBallonSound() {
+  const audio = new Audio('pop.mp3');
+  audio.play();
+}
 
 function checkAllPopped(){
     if (popped === 24){
