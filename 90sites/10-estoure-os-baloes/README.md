@@ -2,7 +2,7 @@
 
 # [Site #10 - Estoure os balões](https://www.dorlyneto.com/90sites/10-estoure-os-baloes)
 
-## 
+## O certo é balão ou bexiga? rs
 
 Quando pequeno, sentia muita agonia para estourar balões (ou bexigas, rs). Era tão intensa que eu sentia medo de enchê-las com a boca. Amarrar as bolas, então? Missão impossível.
 
