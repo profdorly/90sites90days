@@ -13,6 +13,12 @@ document.addEventListener('mouseover', function(e){
     }   
 });
 
+const modalButton = document.querySelector('.modal-button');
+
+modalButton.addEventListener('click', function() {
+  closeModal();
+});
+
 function removeEvent(e){
     e.target.removeEventListener('mouseover', function(){
         
@@ -22,6 +28,11 @@ function removeEvent(e){
 function makeBallonSound() {
   const audio = new Audio('pop.mp3');
   audio.play();
+}
+
+function closeModal() {
+  const modal = document.querySelector('.modal-wrapper');
+  modal.style.display = 'none';
 }
 
 function checkAllPopped(){
