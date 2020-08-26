@@ -102,7 +102,7 @@ var jogadorNome;
       setTimeout(function() {
         deselecionar('jogador', jogadorEscolha);
         deselecionar('computador', computadorEscolha);
-        mensagem(jogadorNome + ' escolha uma opção...');
+        mensagem(jogadorNome + ', escolha uma opção...');
       }, 3500);
     }
 
