@@ -12,7 +12,7 @@ Foi o que fiz neste site, que você pode conferir a seguir:
 
 ## O que aprendi na construção deste site?
 
-Conversando com a dev [Nadia Ligia](https://github.com/nlnadialigia), ela me contou que tem desenvolvido jogos para aprimorar o seu conhecimento em programação. Na hora me inspirei a querer fazer um também. Fui na internet buscar algum tutorial que me auxiliasse neste missão, e encontrei este aqui, criado pelo professor Felipe Fontoura:
+Conversando com a dev [Nadia Ligia](https://github.com/nlnadialigia), ela me contou que tem desenvolvido jogos para aprimorar o seu conhecimento em programação. Na hora me inspirei a querer fazer um também. Fui na internet buscar algum tutorial que me auxiliasse neste missão, e encontrei este aqui, criado pelo professor [Felipe Fontoura](https://github.com/felipefontoura):
 
 [![Tutorial do professor Felipe Fontoura](https://img.youtube.com/vi/JP3eYU137t8/hqdefault.jpg)](https://www.youtube.com/watch?v=JP3eYU137t8)
 
