@@ -4,7 +4,7 @@
 
 ## Como andam seus reflexos?
 
-Minha namorada adora um jogo chamado Neopets. É um meta-jogo, basicamente. Dentro dele, possuem diversos joguinhos viciantes, que levam sua paciência ao extremo do limite. Eu já a vi ficar furiosa com um jogo que testava o reflexo. Ela me pediu para jogar, e fiquei furioso também. Era impossível ganhar!
+Minha namorada adora um jogo chamado [Neopets](http://www.neopets.com/). É um meta-jogo, basicamente. Dentro dele, possuem diversos joguinhos viciantes, que levam sua paciência ao extremo do limite. Eu já a vi ficar furiosa com um jogo que testava o reflexo. Ela me pediu para jogar, e fiquei furioso também. Era impossível ganhar!
 
 Para o site de hoje, também fiz um jogo de testar o reflexo. Mas não é tão sacana quanto o do Neopets. O meu é humanamente possível de ganhar. Não é fácil, mas é possível.
 
