@@ -9,8 +9,10 @@
 
     ctx.font = "3rem Arial";
     ctx.fillText("Jogue sua criatividade aqui!😄", window.innerWidth / 3.5, window.innerHeight / 2);
-ctx.font = "1.5rem Arial";
+    ctx.font = "1.5rem Arial";
     ctx.fillText("(Apenas com mouse, por enquanto 🐭)", (window.innerWidth / 2.9) + 20, (window.innerHeight / 2) + 50);
+
+    window.setTimeout('ctx.clearRect(0,0,window.innerWidth,window.innerHeight)', 1500)
 
     let isDrawing = false;
     let lastX = 0;
