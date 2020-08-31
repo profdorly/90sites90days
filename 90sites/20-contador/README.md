@@ -1,10 +1,10 @@
 ##### Desafio: desenvolvendo um site por dia por 90 dias 
 
-# [Site #20 - Contador](https://www.dorlyneto.com/90sites/20-contador)
+# [Site #20 - Contador modesto](https://www.dorlyneto.com/90sites/20-contador)
 
 Aos domingos, tenho tentado fazer projetos menos desafiadores, e revisitar o que aprendi na semana. Hoje não foi diferente. O site é bastante simples, e foi baseado em um tutorial criado pelo projeto Learn Webdev: https://learn-webdev.com/52-projects-in-52-weeks/week-4-javascript-beginner-projects-tutorial-simple-counter/
 
-* [Acesse o site #20 - Contador](https://www.dorlyneto.com/90sites/20-contador)
+* [Acesse o site #20 - Contador modesto](https://www.dorlyneto.com/90sites/20-contador)
 
 ## O que aprendi na construção deste site?
 
