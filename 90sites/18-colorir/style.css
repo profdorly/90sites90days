@@ -1,3 +1,28 @@
-html, body {
+*{
     margin: 0;
-       }
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0 auto;
+    position: relative;
+}
+
+#start{
+    position:absolute;
+    width:700px;
+    left:50%;
+    top:50%;
+    margin-left:-350px;
+}
+
+p{
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p+p{
+    font-size: 1.5rem;
+}
