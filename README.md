@@ -8,6 +8,8 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #23 - [Ano Novo](https://github.com/dorlyneto/90sites90days/tree/master/90sites/23-ano-novo)
+* Site #22 - [Cronômetro](https://github.com/dorlyneto/90sites90days/tree/master/90sites/22-cronometro)
 * Site #21 - [Relógio digital](https://github.com/dorlyneto/90sites90days/tree/master/90sites/21-relogio-digital)
 * Site #20 - [Contador](https://github.com/dorlyneto/90sites90days/tree/master/90sites/20-contador)
 * Site #19 - [Olar](https://github.com/dorlyneto/90sites90days/tree/master/90sites/19-olar)
