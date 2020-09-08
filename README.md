@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #28 - [Sabedoria popular](https://github.com/dorlyneto/90sites90days/tree/master/90sites/28-asbedoria-popular)
 * Site #27 - [Faça um desenho](https://github.com/dorlyneto/90sites90days/tree/master/90sites/27-desenho)
 * Site #26 - [Contador de visitas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/26-contador-visitas)
 * Site #25 - [Somar](https://github.com/dorlyneto/90sites90days/tree/master/90sites/25-somar)
