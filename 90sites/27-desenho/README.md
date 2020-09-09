@@ -12,7 +12,7 @@ No site de hoje, não só eu mas você também poderá fazer isso.
 
 Novamente, usei um tutorial do dev Florin Pop como referência. Ele fez um desafio de criar 10 sites em 10 horas! Um deles é este app de desenho. Para conferir todos que ele fez, segue o tutorial:
 
-[![10 sites em 10 horas](https://img.youtube.com/vi/dtKciwk_si4.jpg)](https://youtu.be/dtKciwk_si4?t=23612)
+[![10 sites em 10 horas](https://img.youtube.com/vi/dtKciwk_si4/maxresdefault.jpg)](https://youtu.be/dtKciwk_si4?t=23612)
 
 Foi um projeto importante para revisar alguns conceitos e aprender técnicas de como criar diversas ```<input>``` para modificar elementos de um ```<canvas>```. Para criar aplicações com interações, principalmente jogos, é importante reforçar essa relação entre os botões e o que irá acontecer com eles no site.  
 

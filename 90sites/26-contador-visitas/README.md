@@ -14,7 +14,7 @@ Tenho certeza que não é a melhor nem a mais segura forma de criar um contador,
 
 Para fazer este site, me baseei no tutorial criado pelo dev Florin Pop.
 
-[![Criando um contador de visitas](https://img.youtube.com/vi/R8GS-8nlekY.jpg)](https://www.youtube.com/watch?v=R8GS-8nlekY)
+[![Criando um contador de visitas](https://img.youtube.com/vi/R8GS-8nlekY/maxresdefault.jpg)](https://www.youtube.com/watch?v=R8GS-8nlekY)
 
 É um tutorial bastante simples, onde tive a oportunidade de utilizar minha primeira API!
 
