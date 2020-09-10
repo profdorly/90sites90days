@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #30 - [Beba água!](https://github.com/dorlyneto/90sites90days/tree/master/90sites/30-beba-agua)
 * Site #29 - [Quiz das capivaras](https://github.com/dorlyneto/90sites90days/tree/master/90sites/29-quiz)
 * Site #28 - [Sabedoria popular](https://github.com/dorlyneto/90sites90days/tree/master/90sites/28-sabedoria-popular)
 * Site #27 - [Faça um desenho](https://github.com/dorlyneto/90sites90days/tree/master/90sites/27-desenho)

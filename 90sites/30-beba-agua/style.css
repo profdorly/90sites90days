@@ -1,0 +1,78 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.water {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 100vh;
+	background: #ffb700;
+	position: relative;
+}
+
+.cup {
+	width: 230px;
+	height: 300px;
+	border: 10px solid #000;
+	left: auto;
+	background: #03a9f4;
+	border-bottom-left-radius: 20%;
+	border-bottom-right-radius: 20%;
+	position: absolute;
+	overflow: hidden;
+	box-shadow: 5px 5px 5px rgba(0,0,0,.5);
+}
+
+.cup::before {
+	content: "Beba água!";
+	font-family: sans-serif;
+	font-size: 2.2rem;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	animation: loading 2s infinite linear;
+}
+
+.cup::after {
+	content: "";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	background: #ffb700;
+	transform: scale(1.6);
+	border-radius: 30%;
+	animation: water 15s ease-in-out infinite;
+}
+
+@keyframes water {
+	0%,
+	100% {
+		transform: translateY(0) rotate(0) scale(1.6);
+	}
+	50% {
+		transform: translateY(-150%) rotate(500deg) scale(1.6);
+	}
+}
+
+@keyframes loading {
+	0%,
+	100% {
+		opacity: 0;
+	}
+	25%,
+	75% {
+		opacity: .5;
+	}
+	50% {
+		opacity: 1;
+	}
+}
