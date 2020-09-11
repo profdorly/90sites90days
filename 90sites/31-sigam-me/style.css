@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+html, body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+  place-items: center;
+  background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
+}
+
+header {
+  background-color: rgba(36, 36, 36, 0.678);
+  width: 100%;
+  color: #fff;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header a {
+  color: whitesmoke;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+header a:hover {
+  color: #dea5ff;
+  transition: 200ms;
+}
+
+header span a {
+  color: whitesmoke;
+  align-items: center;
+  margin-left: 30px;
+  text-decoration: none;
+}
+
+header span a:hover {
+  color: #dea5ff;
+  transition: 200ms;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+  color: #000000;
+}
+
+.wrapper {
+  flex: 1;
+  margin-top:2rem;
+}
+
+.wrapper .button{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  float: left;
+  margin: 0 5px;
+  overflow: hidden;
+  background: #fff;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
+  transition: all 0.3s ease-out;
+}
+
+.wrapper .button:hover{
+  width: 200px;
+}
+
+.wrapper .button .icon{
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  border-radius: 50px;
+  box-sizing: border-box;
+  line-height: 60px;
+  transition: all 0.3s ease-out;
+}
+
+.wrapper .button:nth-child(1):hover .icon{
+  background: #4267B2;
+}
+
+.wrapper .button:nth-child(2):hover .icon{
+  background: #1DA1F2;
+}
+
+.wrapper .button:nth-child(3):hover .icon{
+  background: #E1306C;
+}
+.wrapper .button:nth-child(4):hover .icon{
+  background: rgb(206, 85, 206);
+}
+
+.wrapper .button:nth-child(5):hover .icon{
+  background: #000000;
+}
+
+.wrapper .button:nth-child(6):hover .icon{
+  background: #4267B2;
+}
+
+.wrapper .button .icon i{
+  font-size: 25px;
+  line-height: 60px;
+  transition: all 0.3s ease-out;
+}
+
+.wrapper .button:hover .icon i{
+  color: #fff;
+}
+
+.wrapper .button span{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 60px;
+  margin-left: 10px;
+  transition: all 0.3s ease-out;
+}
+
+.wrapper .button:nth-child(1) span a{
+  color: #4267B2;
+}
+
+.wrapper .button:nth-child(2) span a{
+  color: #1DA1F2;
+}
+.wrapper .button:nth-child(3) span a{
+  color: #E1306C;
+}
+
+.wrapper .button:nth-child(4) span a{
+  color: #333;
+}
+
+.wrapper .button:nth-child(5) span a{
+  color: #4267B2;
+}
