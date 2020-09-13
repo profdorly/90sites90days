@@ -93,5 +93,5 @@ const Ball = function(x, y, radius) {
 
   window.addEventListener('mouseup', loop);
   window.addEventListener('mousedown', () => document.body.removeChild(msg));
-  window.addEventListener('touchstart', loop);
-  window.addEventListener('touchend', () => document.body.removeChild(msg));
+  window.addEventListener('touchend', loop);
+  window.addEventListener('touchstart', () => document.body.removeChild(msg));
