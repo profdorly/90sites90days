@@ -1,0 +1,17 @@
+* { 
+    margin:0; 
+    padding:0;
+    
+}
+
+#message {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+canvas {  
+    height:100%;
+    position:relative; 
+    width:100%; 
+}
