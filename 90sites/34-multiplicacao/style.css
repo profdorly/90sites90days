@@ -1,0 +1,153 @@
+*{
+    font-family: sans-serif;
+}
+html
+{
+    height:100%;
+    background-color:#dde2e3;
+}
+.gametitle{
+    text-align: center;
+    font-size: 30px;
+    color: #2c2e9a;
+    margin-top: 50px;
+}
+#board{
+    background-color:#abd7ec;
+    width: 500px;
+    height: 380px;
+    border-radius:5px;  
+    position: relative;
+    margin: 50px auto;
+}
+#right{
+    padding:5px;
+    background-color:#4fb832;
+    width: 70px;
+    position: absolute;
+    margin: 20px 200px;
+    text-align: center;
+    color:white;
+    border-radius: 5px;
+    display:none;
+}
+#wrong{
+    padding:5px;
+    background-color: #bb1010;
+    width: 100px;
+    position: absolute;    
+    margin: 20px 200px;
+    text-align: center;
+    color:white;
+    border-radius: 5px;    
+    display:none;
+}
+#score{
+    padding: 5px;
+    background-color:#c5d750;
+    width:80px;
+    text-align:center;
+    position: absolute;
+    margin: 20px 380px;
+    border-radius: 5px;
+}
+#problem{
+    padding:5px;
+    background-color:#4d74df;
+    width: 400px;
+    height: 60px;
+    text-align:center;
+    position: absolute;
+    margin: 85px 40px;
+    font-size: 40px;
+    line-height: 60px;
+    color:white;
+    border-radius: 5px;
+}
+#instruction{
+    padding:5px;
+    background-color:#75ba26;
+    width: 400px;
+    height: 30px;    
+    text-align:center;
+    line-height: 30px;
+    position: absolute;
+    margin: 165px 40px;
+    font-size: 20px;
+    color:white;
+    border-radius: 5px;
+}
+#answers{
+    margin: 215px 40px;
+    position: absolute;   
+}
+#answer1, #answer2, #answer3, #answer4{
+    padding: 5px;
+    height: 50px; 
+    line-height: 50px;
+    width: 60px;
+    background-color: aliceblue;
+    float:left;
+    border-radius: 5px;
+    font-size: 34px;
+    text-align:center;
+    margin-right: 43px;
+}
+#answer1:hover, #answer2:hover, #answer3:hover, #answer4:hover{
+    background-color:#4b4ecc;
+    color:white;
+    cursor:pointer;
+}
+#answer4{
+    margin-right:0;
+}
+#start{
+    padding:5px;
+    background-color:#9837ae;
+    width: 90px;
+    position: absolute;    
+    margin: 300px 210px;
+    text-align: center;
+    color:white;
+    border-radius: 5px;   
+}
+#reset{
+    padding:5px;
+    background-color:#9837ae;
+    width: 90px;
+    position: absolute;    
+    margin: 300px 210px;
+    text-align: center;
+    color:white;
+    border-radius: 5px;  
+    display:none;
+}
+#reset:hover, #start:hover{
+    background-color: #b739e9;
+    cursor:pointer;
+}
+#time{
+    padding:5px;
+    background-color:#e4c6f0;
+    width: 105px;
+    text-align: center;
+    position: absolute;
+    margin: 310px 350px;
+    border-radius: 5px;
+    display:none;
+}
+#gameover{
+    padding:5x;
+    line-height: 50px;
+    background-color:#304f96;
+    color: white;
+    width: 350px;
+    height: 210px;
+    position:absolute;
+    margin: 75px 70px;
+    text-align:center;
+    font-size: 30px; 
+    border-radius: 5px;
+    z-index: 2;
+    display:none;
+}
