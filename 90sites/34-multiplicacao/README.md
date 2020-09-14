@@ -12,7 +12,7 @@ Como anda seu raciocínio matemático? Vamos testar?
  
 A experiência de hoje foi um pouco diferente: utilizei um tutorial que não possuía um passo-a-passo! Foi criado pelo excelente site Source Code & Projects, e você pode encontrá-lo aqui: https://code-projects.org/multiplication-game-in-javascript-with-source-code/
 
-As instruções de como o Javascript funciona para este jogo está toda no formato de comentários no próprio código! Praticamente cada elemento está comentado de acordo com sua função na lógica da programação. A cada comentário que eu via, aprendia algo novo ou reforçava o que já tenho aprendido.
+As instruções de como o Javascript funciona para este jogo está toda no formato de comentários no próprio código! Praticamente cada elemento está comentado de acordo com sua função na lógica da programação. A cada comentário que eu via, aprendia algo novo ou reforçava o que já tenho aprendido. Eu gostei tanto desse formato que até mantive os comentários no código deste projeto, para que vocês também possam ver.
 
 O código original possuía som, o que inexplicavelmente não estava funcionando para mim. Preferi retirar o som tanto de todas as partes do código. Outra coisa que não estava me agradando era o ```box-shadow```do código original, e preferi retirá-lo para deixar o jogo mais flat.
 
