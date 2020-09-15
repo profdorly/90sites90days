@@ -46,7 +46,8 @@ body {
     }
     
     .container {
-    width: 800px;
+    max-width: 800px;
+    width: 100%;
     margin: 30px auto;
     color: white;
     text-align:center;
