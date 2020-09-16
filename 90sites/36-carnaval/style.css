@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+  }
+  
+  body {
+	background: rgb(247, 247, 247);
+  }
+  
+  .container {
+	width: 100vw;
+	height: 100Vh;
+	flex-direction: column;
+    align-items: center;
+    justify-content: center;
+	position: relative;
+	display:flex;
+  }
+  
+  .button {
+	margin: 20px auto;
+	width: 140px;
+	text-align: center;
+	padding: 10px 20px;
+	border-radius: 4px;
+	background: #b0a1f5;
+	cursor: pointer;
+  }
+  
+  .glitter {
+	height: 100vh;
+	left: 0;
+	overflow: hidden;
+	pointer-events: none;
+	position: fixed;
+	top: 0;
+	width: 100vw;
+	z-index: 100;
+  }
+  
+  .glitter__item {
+	  animation-duration: 5s;
+	  animation-iteration-count: infinite;
+	  animation-timing-function: linear;
+	  height: 5px;
+	  left: 50vw;
+	  position: absolute;
+	  top: -4vh;
+	  width: 6px;
+  }
+  
+  .glitter__item--animation1 {
+	  animation-name: glitter1;
+  }
+  
+  .glitter__item--animation2 {
+	  animation-name: glitter2;
+  }
+  
+  .glitter__item--animation3 {
+	  animation-name: glitter3;
+  }
+  
+  .glitter__item--animation4 {
+	  animation-name: glitter4;
+  }
+  
+  .glitter__item--animation5 {
+	  animation-name: glitter5;
+  }
+  
+  .glitter__item--animation6 {
+	  animation-name: glitter6;
+  }
+  
+  .glitter__item--animation7 {
+	  animation-name: glitter7;
+  }
+  
+  .glitter__item--animation8 {
+	  animation-name: glitter8;
+  }
+  
+  .glitter__item--animation9 {
+	  animation-name: glitter9;
+  }
+  
+  .glitter__item--colour1 {
+	  background: #785bfc;
+  }
+  
+  .glitter__item--colour2 {
+	  background: #bd2bac;
+  }
+  
+  .glitter__item--colour3 {
+	  background: #fef673;
+  }
+  
+  .glitter__item--colour4 {
+	  background: #368b0e;
+  }
+  
+  .glitter__item--colour5 {
+	  background: #c50a20;
+  }
+  
+  @keyframes glitter1 {
+	  0% {
+		  top: -4vh;
+		  transform: rotateX(0deg);
+	  }
+  
+	  100% {
+		  top: 110vh;
+		  transform: rotateX(3600deg);
+	  }
+  }
+  
+  @keyframes glitter2 {
+	  0% {
+		  top: -4vh;
+		  transform: translateX(0) rotateX(0deg);
+	  }
+  
+	  100% {
+		  top: 110vh;
+		  transform: translateX(200px) rotateX(3600deg);
+	  }
+  }
+  
+  @keyframes glitter3 {
+	  0% {
+		  top: -4vh;
+		  transform: translateX(0) rotateX(0deg);
+	  }
+  
+	  100% {
+		  top: 110vh;
+		  transform: translateX(-200px) rotateX(3600deg);
+	  }
+  }
+  
+  @keyframes glitter4 {
+	  0% {
+		  top: -4vh;
+		  transform: rotateY(0deg);
+	  }
+  
+	  100% {
+		  top: 110vh;
+		  transform: rotateY(3600deg);
+	  }
+  }
+  
+  @keyframes glitter5 {
+	  0% {
+		  top: -4vh;
+		  transform: translateX(0) rotateY(0deg);
+	  }
+  
+	  100% {
+		  top: 110vh;
+		  transform: translateX(200px) rotateY(3600deg);
+	  }
+  }
+  
+  @keyframes glitter6 {
+	  0% {
+		  top: -4vh;
+		  transform: translateX(0) rotateY(0deg);
+	  }
+  
+	  100% {
+		  top: 110vh;
+		  transform: translateX(200px) rotateY(3600deg);
+	  }
+  }
+  
+  @keyframes glitter7 {
+	  0% {
+		  top: -4vh;
+		  transform: rotateZ(0deg);
+	  }
+  
+	  100% {
+		  top: 110vh;
+		  transform: rotateZ(3600deg);
+	  }
+  }
+  
+  @keyframes glitter8 {
+	  0% {
+		  top: -4vh;
+		  transform: translateX(0) rotateZ(0deg);
+	  }
+  
+	  100% {
+		  top: 110vh;
+		  transform: translateX(200px) rotateZ(3600deg);
+	  }
+  }
+  
+  @keyframes glitter9 {
+	  0% {
+		  top: -4vh;
+		  transform: translateX(0) rotateZ(0deg);
+	  }
+  
+	  100% {
+		  top: 110vh;
+		  transform: translateX(-200px) rotateZ(3600deg);
+	  }
+  }
