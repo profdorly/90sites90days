@@ -89,3 +89,10 @@ main p {
 main h2 {
     font-size: 42px;
 }
+
+@media( max-width: 720px ) {
+    #mountain, #bg, #road
+   {
+      height: 100vh;
+    }
+  }
