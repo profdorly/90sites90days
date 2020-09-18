@@ -96,3 +96,17 @@ main h2 {
       height: 100vh;
     }
   }
+  
+@media( max-width: 1024px ) {
+    #mountain, #bg, #road
+   {
+      height: 100vh;
+    }
+  }
+
+@media( max-width: 1280px ) {
+    #mountain, #bg, #road
+   {
+      height: 100vh;
+    }
+  }
