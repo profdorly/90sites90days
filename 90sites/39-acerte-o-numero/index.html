@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Acerte o número | Dorly Neto</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Acerte o número</h1>
+    <p>Tente acertar o número entre 1 e 100.</p>
+    <p>Você tem 10 tentativas para conseguir acertar.</p>
+    </br>
+    <div id="wrapper">
+        <form class="form">
+            <label2 for="guessField" id="guess">Escolha um número:</label>
+            <input type="text" id="guessField" class="guessField">
+            <input type="submit" id="subt" value="Envie o número" class="guessSubmit">
+        </form>
+
+        <div class="resultParas">
+            <p >Tentativas passadas: <span class="guesses"></span></p>
+            <p >Tentativas restantes: <span class="lastResult">10</span></p>
+            <p class="lowOrHi"></p>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
