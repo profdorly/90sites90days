@@ -20,13 +20,13 @@ body {
 }
 
 .guesses {
-    color: white;
+    color: #fff;
     padding: 7px;
 }
 
 button {
-    background-color: purple;
-    color: #fff;
+    background-color: #7DB085;
+    color: #7DB085;
     width: 250px;
     height: 50px;
     border-radius: 25px;
@@ -36,7 +36,7 @@ button {
 }
 
 #subt {
-    background-color: yellow;
+    background-color: #7DB085;
     color: #000;
     width: 350px;
     height: 50px;
@@ -54,7 +54,7 @@ button {
     border-style: none;
     margin-top: 25px;
     font-size: 45px;
-    border: 5px solid #14727d;
+    border: 5px solid #7DB085;
     text-align: center;
 }
 
@@ -67,7 +67,7 @@ button {
 }
 
 .guesses {
-    background-color: #12aab4;
+    background-color: #A14091;
 }
 
 #wrapper {
@@ -75,13 +75,13 @@ button {
     text-align: center;
     width: 50rem;
     height: 40rem;
-    background-color: #12aab4;
+    background-color: #A14091;
     color: #fff;
     font-size: 25px;
 }
 
 h1 {
-    background-color: #7b3056;
+    background-color: #A14091;
     color: #fff;
     text-align: center;
     width: 50rem;

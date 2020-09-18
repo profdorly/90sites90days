@@ -20,11 +20,11 @@ if (playGame){
 
 function validateGuess(guess){
     if (isNaN(guess)){
-        alert('Please enter a valid number');
+        alert('Coloque um número válido.');
     } else if (guess < 1) {
-        alert('Please enter a number greater than 1!');
+        alert('Coloque um número maior que 1!');
     } else if (guess > 100){
-        alert('Please enter a number less than 500!')
+        alert('Coloque um número menor que 100!')
     } else {
         previousGuesses.push(guess);
         if (numGuesses === 11){
