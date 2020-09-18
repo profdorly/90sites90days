@@ -17,6 +17,10 @@ Justamente por não usar um framework, a jornada se tornou mais difícil. Por ex
 
 Com o (pouco) conhecimento que tenho sobre o assunto e pedindo diversas ajudas, consegui criar algum princípio de responsividade. Porém, me surgiram mais perguntas que respostas. Nessa jornada, o dev [Ivander Salvador Ruiz](https://github.com/ivandersr) me ajudou bastante, com várias dicas de caminhos para chegar a soluções. 
 
+Como fiquei horas batendo a cabeça para identificar como deixar responsivo o efeito do parallax scrolling, escolhi resolver de uma forma bem mais simples, mesmo que sendo totalmente longe do ideal: acrescentei uma mensagem no topo da página, pedindo para o usuário de celular colocar o aparelho na horizontal. Querendo ou não, ao fazer isso, o problema para o usuário se resolvia!
+
+Também tomei conhecimento da propriedade [```z-index```](https://www.w3schools.com/cssref/pr_pos_z-index.asp), responsável por estipular a ordem na qual um elemento irá aparecer sobreposto a outro, em uma página, de acordo com um ```position``` pré-estabelecido.
+
 A partir da prática, encontramos barreiras reais a serem superadas. Nem todas iremos transpor no mesmo dia. Porém, ao ter a consciência de que uma barreira existe, já é um caminho para superá-la.
 
 ---

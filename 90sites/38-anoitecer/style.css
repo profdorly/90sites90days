@@ -63,6 +63,15 @@ section img {
     z-index: 2;
 }
 
+header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: #fff;
+    margin: 10px;
+}
+
 main {
     position: relative;
     display: flex;
