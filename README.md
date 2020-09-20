@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #40 - [Gerador de senhas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/40-gerador-de-senhas)
 * Site #39 - [Acerte o número](https://github.com/dorlyneto/90sites90days/tree/master/90sites/39-acerte-o-numero)
 * Site #38 - [Crônica do anoitecer](https://github.com/dorlyneto/90sites90days/tree/master/90sites/38-anoitecer)
 * Site #37 - [Emoji curioso](https://github.com/dorlyneto/90sites90days/tree/master/90sites/37-emoji-curioso)
