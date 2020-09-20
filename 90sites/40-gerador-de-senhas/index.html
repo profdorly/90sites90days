@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Gerador de senhas | Dorly Neto</title>
+        <link rel="stylesheet" href="style.css" />
+        <meta property="og:url" content="https://www.dorlyneto.com/90sites/40-gerador-de-senhas"/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Gerador de senhas | Dorly Neto"/>
+        <meta property="article:author" content="Dorly Neto">
+        <meta property="og:description" content="Mantenha-se em segurança!"/>
+        <meta property="og:image" content="/public/assets/opengraph.jpg"/>
+	<link rel="stylesheet" type="text/css" href="style.css">
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <div class="pw-title">
+            <p><h1>Gerador de senhas</h1></p>
+        </div>
+        <div class="pw-container">
+            <div class="pw-header">
+                <div class="pw">
+                    <span id="pw">clique em gerar senha</span>
+                    <button id="copy">Copiar</button>
+                </div>
+            </div>
+            <div class="pw-body">
+                <div class="form-control">
+                    <label for="len">Tamanho da senha</label>
+                    <input id="len" value="15" type="number" min="2" max="30" />
+                </div>
+                <div class="form-control">
+                    <label for="upper">Conter letras maiúsculas</label>
+                    <input id="upper" type="checkbox" checked/>
+                </div>
+                <div class="form-control">
+                    <label for="lower">Conter letras minúsculas</label>
+                    <input id="lower" type="checkbox" checked/>
+                </div>
+                <div class="form-control">
+                    <label for="number">Conter números</label>
+                    <input id="number" type="checkbox" checked/>
+                </div>
+                <div class="form-control">
+                    <label for="symbol">Conter símbolos</label>
+                    <input id="symbol" type="checkbox" checked/>
+                </div>
+                <button class="generate" id="generate">
+                    Gerar senha
+                </button>
+            </div>
+        </div>
+    </body>
+</html>
