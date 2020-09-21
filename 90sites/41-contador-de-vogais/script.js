@@ -3,7 +3,7 @@ const btn = document.querySelector("button");
 const numDisp = document.querySelector(".numDisp");
 
 function countVowel() {
-  let vowels = "aeiou";
+  let vowels = "aeiouáéíóúãõâêîôû";
   let wordInput = input.value.toLowerCase();
   let vowelCount = 0;
 
