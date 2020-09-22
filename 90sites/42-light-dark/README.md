@@ -18,9 +18,11 @@ Tenho gostado bastante de acompanhar o dev Florin Pop. Ele é um ótimo produtor
 [![10 JavaScript Projects in 1 Hour - Coding Challenge](https://img.youtube.com/vi/8GPPJpiLqHk/maxresdefault.jpg)](https://youtu.be/8GPPJpiLqHk)
 
 Achei muito simples a forma transicionar entre o light e o dark mode através de um botão, modificando o ```background-color``` e o ```color``` do CSS. O efeito acontece pois adiciona-se uma classe ao ```<body>``` no momento em que o botão é clicado. O código para fazer tal efeito é imensamento ridículo de simples:
-```toggle.addEventListener("change", (e) => {
+```
+toggle.addEventListener("change", (e) => {
     document.body.classList.toggle("dark", e.target.checked);
-});```
+});
+```
 
 Gostou? Que tal aplicar esta solução em seu próximo projeto?
 
