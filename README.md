@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #43 - [Chuva de corações](https://github.com/dorlyneto/90sites90days/tree/master/90sites/43-chuva-coracoes)
 * Site #42 - [Light-Dark](https://github.com/dorlyneto/90sites90days/tree/master/90sites/42-light-dark)
 * Site #41 - [Contador de vogais](https://github.com/dorlyneto/90sites90days/tree/master/90sites/41-contador-de-vogais)
 * Site #40 - [Gerador de senhas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/40-gerador-de-senhas)
