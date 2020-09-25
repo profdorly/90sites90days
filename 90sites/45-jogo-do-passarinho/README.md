@@ -5,7 +5,7 @@
 Chegamos na metade do desafio! Estou tão no hype que não consigo sentir que já se passaram 45 dias desde que montei a home do projeto. Comecei um texto para reunir os aprendizados da jornada até aqui (novidades em breve).
 
 E para comemorar este momento, mais um joguinho! No melhor estilo Flappy Bird, fiz um jogo do passarinho:
-* [Acesse o site 45 - Binário-Decimal](https://www.dorlyneto.com/90sites/45-jogo-do-passarinho)
+* [Acesse o site 45 - Jogo do passarinho](https://www.dorlyneto.com/90sites/45-jogo-do-passarinho)
 
 ## O que aprendi na construção deste site?
 
