@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #45 - [Jogo do passarinho](https://github.com/dorlyneto/90sites90days/tree/master/90sites/45-jogo-do-passarinho)
 * Site #44 - [Binário-decimal](https://github.com/dorlyneto/90sites90days/tree/master/90sites/44-binario-decimal)
 * Site #43 - [Chuva de corações](https://github.com/dorlyneto/90sites90days/tree/master/90sites/43-chuva-coracoes)
 * Site #42 - [Light-Dark](https://github.com/dorlyneto/90sites90days/tree/master/90sites/42-light-dark)

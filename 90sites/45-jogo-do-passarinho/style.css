@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    font-family: "Poppins", sans-serif;
+  }
+
+.hide {
+    display: none;
+}
+
+.gameArea {
+    background-color: skyblue;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.score {
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    font-size: 1.5em;
+}
+
+.startScreen {
+    position: absolute;
+    background-color: red;
+    left: 25%;
+    top: 100px;
+    color: white;
+    width: 50%;
+    padding: 15px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.bird {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 50px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 1.5em;
+    background-image: url(bird.png);
+    background-size: cover;
+}
+
+.wing {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    background-color: gold;
+    width: 25px;
+    height: 12px;
+    border-radius: 5px;
+}
+
+.gameMessage {
+    position: absolute;
+    top: 10%;
+    text-align: center;
+    left: 20%;
+    width: 60%;
+    background-color: aliceblue;
+    font-size: 2em;
+}
+
+.pipe {
+    width: 100px;
+    position: absolute;
+    text-align: center;
+}
