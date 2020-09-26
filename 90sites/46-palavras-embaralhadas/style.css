@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Pacifico&display=swap')
+
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    top: 0;
+    letter-spacing: 7px;
+}
+
+h1 span {
+    font-size: 70px;
+
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(195, 197, 195, 0.39);
+}
+
+    .container {
+        width:30rem;
+        height: 20rem;
+        background-color:#f18117;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        border:3px solid black;
+        border-radius: 29px;
+        max-width: 80%;
+    }
+
+    input {
+        padding:.2rem;
+        border: 1ps solid black;
+        outline: none;
+        border-radius: 5px;
+        width: 20rem;
+        font-size: 40px;
+        letter-spacing: 2px;
+        font-family: 'Montserrat', sans-serif;
+        display: none;
+    }
+
+    button {
+        padding:14px;
+        width:19rem;
+        background: green;
+        outline: none;
+        border-radius: 10px;
+        font-weight: bold;
+        font-size: larger;
+        margin-top: 2rem;
+        cursor: pointer;
+    }
+    button:hover{
+        color: chartreuse;
+    }
+    .message {
+        padding: 30px;
+     /* font-weight: bold; */
+        font-size: 40px;
+        letter-spacing: 2px;
+        font-family: 'Montserrat', sans-serif;
+    }
