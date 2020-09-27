@@ -52,7 +52,7 @@ function getLabel(x){
     var frequency = getFrequency(x);
     return Math.round(frequency)+"Hz";
   }
-  else return "CLICK / DRAG";
+  else return "CLIQUE E ARRASTE";
 }
 
 function down(event) {
