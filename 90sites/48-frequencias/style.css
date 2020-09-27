@@ -1,0 +1,22 @@
+#pad {
+    position: absolute;
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    background: #222;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #label {
+    font: 40px Arial;
+    color: white;
+
+    /* This makes the label text non-selectable */
+    user-select: none;
+  }
