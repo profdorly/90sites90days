@@ -12,7 +12,7 @@ O de hoje já é um microexperimento do que é possível fazer e pra qual caminh
 
 ## O que aprendi na construção deste site?
 
-Novamente utilizei o framework [Tone.js](https://tonejs.github.io/), o qual explorei pela primeira vez durante o site 48. 
+Novamente utilizei o framework [Tone.js](https://tonejs.github.io/), o qual explorei pela primeira vez durante o site 48. Utilizei como base este excelente tutorial criado por Phillip Shim e postado no Dev.to: https://dev.to/shimphillip/building-a-piano-with-tone-js-5c2f
 
 Agora, estudei a relação dos cliques no teclado com a emissão dos sons presentes no Tone.js. Olhando outros projetos mais complexos, averiguei a potência deste framework. Começo com algo simples, pois meu intuito não é reproduzir um código complexo sem conseguir compreendê-lo. Mas deixo como exemplo aqui outros dois projetos incríveis que foram criados com este mesmo framework, para você entender seu potencial para a produção musical:
 
