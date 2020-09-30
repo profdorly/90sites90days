@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #49 - [Piano](https://github.com/dorlyneto/90sites90days/tree/master/90sites/50-piano)
 * Site #49 - [Jogo da cobrinha](https://github.com/dorlyneto/90sites90days/tree/master/90sites/49-jogo-da-cobrinha)
 * Site #48 - [Frequências](https://github.com/dorlyneto/90sites90days/tree/master/90sites/48-frequencias)
 * Site #47 - [Diário das cores](https://github.com/dorlyneto/90sites90days/tree/master/90sites/47-diario-das-cores)
