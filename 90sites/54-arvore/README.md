@@ -15,7 +15,7 @@ E aqui estou eu, descansado e de volta ao batente! E decidi não voltar com o 51
 Utilizei como base um excelente tutorial que conheci nesta página do Hack Club: https://workshops.hackclub.com/tree_machine/
 
 Procurando mais sobre, encontrei este tutorial em vídeo, criado pelo CodingTrain:
-[![Desafio do código 14 - Arvores Fractais - Recursividade](https://img.youtube.com/vi/0jjeOYMjmDU/maxresdefault.jpg)](https://www.youtube.com/watch?v=0jjeOYMjmDU)
+[![Desafio do código 14 - Arvores Fractais - Recursividade](https://img.youtube.com/vi/0jjeOYMjmDU/0.jpg)](https://www.youtube.com/watch?v=0jjeOYMjmDU)
 
 A base deste projeto é o framework [p5.js](https://p5js.org/), feito para profissionais da arte poderem explorar o máximo do Javascript. Basicamente, ele possui diversas funções de desenho configuradas direto no seu arquivo .js. Como destaque, ressalto que a documentação deste framework é bem completa e dediquei algumas horas a ela, como fã das artes que sou.
 
