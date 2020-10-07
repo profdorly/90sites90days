@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #57 - [Jogo da velha](https://github.com/dorlyneto/90sites90days/tree/master/90sites/57-jogo-da-velha)
 * Site #56 - [Genius](https://github.com/dorlyneto/90sites90days/tree/master/90sites/56-genius)
 * Site #55 - [Gerador de labirinto](https://github.com/dorlyneto/90sites90days/tree/master/90sites/55-gerador-de-labirinto)
 * Site #54 - [Árvore](https://github.com/dorlyneto/90sites90days/tree/master/90sites/54-arvore)
