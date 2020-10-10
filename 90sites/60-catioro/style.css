@@ -1,0 +1,128 @@
+body {
+    background: #ffffb3;
+    margin: 0;
+    padding: 0;
+}
+
+.dog {
+    background: #fdb44e;
+    height: 75px;
+    width: 120px;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    border-radius: 0 0 0 125px;
+}
+
+.body {
+    background-color: #fdb44e;
+    height: 100px;
+    width: 180px;
+    position: relative;
+    top: 55px;
+    left: 70px;
+    border-radius: 0 0 0 60px;
+}
+
+.leg1,
+.leg2,
+.leg3,
+.leg4 {
+    background: #fdb44e;
+    height: 50px;
+    width: 18px;
+    position: relative;border-radius: 10px 
+}
+
+.leg1 {
+    left: 20px;
+    top: 80px;
+    background: rgba(151, 89, 2, 0.5);
+    z-index:-1;
+}
+
+.leg2 {
+    left: 50px;
+    top: 30px;
+}
+
+.leg3 {
+    left: 135px;
+    bottom: 20px;
+    background: rgba(151, 89, 2, 0.5);
+    z-index: -1;
+}
+
+.leg4 {
+    left: 162px;
+    bottom: 70px;
+}
+
+.tail {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 100px solid #fdb44e;
+    position: relative;
+    bottom: 290px;
+    left: 160px;
+    transform: rotate(30deg);
+    transform-origin: bottom;
+    animation: wag 1s infinite;
+}
+
+@keyframes wag {
+    50% {
+        transform: rotate(10deg);
+    }
+}
+
+.ear {
+    background: rgba(151, 89, 2, 0.8);
+    width: 45px;
+    height: 90px;
+    border-radius: 0 0 100px 100px;
+    position: relative;
+    left: 5px;
+    bottom: 355px;
+}
+
+.nose {
+    background: #000;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 450px;
+    left: -80px;
+}
+
+.eye {
+    background: #000;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 450px;
+    left: -20px;
+}
+
+.tongue {
+    background: rgb(253, 97, 69);
+    height: 20px;
+    width: 8px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 430px;
+    left: -50px;
+    transform: rotate(45deg);
+    z-index: -1;
+    animation: move .5s infinite;
+}
+
+@keyframes move {
+    50% {
+        transform: rotate(45deg) translateY(2.5px);
+    }
+}
