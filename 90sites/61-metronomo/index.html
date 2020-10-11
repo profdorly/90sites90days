@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Metronome</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="title">Metrônomo</div>
+    <button id="play-button" class="">
+        <div id="play-pause-icon" class="play"></div>
+    </button>
+
+    <div class="tempo-controls">
+        <button class="tempo-change" data-change="-5">-5</button>
+        <button class="tempo-change" data-change="-1">-</button>
+
+        <div class="tempo-container">
+            <div id="tempo">120</div>
+            <div class="bpm">bpm</div>
+        </div>
+
+        <button class="tempo-change" data-change="+1">+</button>
+        <button class="tempo-change" data-change="+5">+5</button>
+    </div>
+    <script src="metronome.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
