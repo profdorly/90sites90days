@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #786fa6;
+	font-family: 'Muli', sans-serif;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+}
+
+h1 {
+	color: #fff;
+	font-size: 36px;
+	margin: 0;
+}
+
+h4 {
+	color: #fff;
+	margin: 10px 0 20px;
+}
+
+canvas {
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+}
+
+.modal-container {
+	background-color: rgba(0, 0, 0, 0.5);
+	display: none;
+	align-items: center;
+	justify-content: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.modal-content {
+	border-radius: 4px;
+	box-shadow: 0 0 4px rgba(255, 255, 255, 0.8);
+	padding: 20px 50px;
+	background-color: #fff;
+	text-align: center;
+}
+
+.modal-content h2 {
+	margin: 0;
+}
+
+.modal-content p {
+	margin: 15px;
+}
+
+.modal-content button {
+	background-color: #303952;
+	border: none;
+	border-radius: 4px;
+	color: #fff;
+	font-size: 16px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.modal-content a {
+	color: #303952;
+	display: block;
+	margin-top: 10px;
+}
