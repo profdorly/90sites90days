@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #64 - [Lista de tarefas](https://github.com/dorlyneto/90sites90days/tree/master/90sites/64-lista-de-tarefas)
 * Site #63 - [Pista de dança](https://github.com/dorlyneto/90sites90days/tree/master/90sites/63-pista-de-danca)
 * Site #62 - [Contra-mão](https://github.com/dorlyneto/90sites90days/tree/master/90sites/62-contra-mao)
 * Site #61 - [Metrônomo](https://github.com/dorlyneto/90sites90days/tree/master/90sites/61-metronomo)
