@@ -1,0 +1,44 @@
+<html>
+<head>
+  <title>Jogo da galinha | Dorly Neto</title>
+  <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <div id="container">
+
+    <div id="score_help"> Pontos:
+      <span id="score">0</span> | Vida:
+      <span id="life"></span> | Use o mouse para jogar
+    </div>
+
+    <div id="branch"></div>
+
+    <div id="hen1" class="hen"></div>
+    <div id="hen2" class="hen"></div>
+    <div id="hen3" class="hen"></div>
+
+    <div id="egg1" class="egg" data-bullseye='1'></div>
+    <div id="egg2" class="egg" data-bullseye='2'></div>
+    <div id="egg3" class="egg" data-bullseye='3'></div>
+
+    <div id="bullseye1" class="bullseye"></div>
+    <div id="bullseye2" class="bullseye"></div>
+    <div id="bullseye3" class="bullseye"></div>
+
+    <div id="basket">
+      <span id="score_1"></span>
+    </div>
+
+    <div id="floor"></div>
+
+    <button id="restart">Reiniciar</button>
+
+  </div>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/collision_detection.js"></script>
+  <script src="js/variables.js"></script>
+  <script src="js/functions.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
