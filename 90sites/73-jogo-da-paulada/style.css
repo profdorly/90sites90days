@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+  cursor: none;
+}
+body {
+  background-color: #32046a;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
+.heading {
+  font-size: 2em;
+  margin: 1em 0;
+  text-align: center;
+}
+.score {
+  font-size: 1.3em;
+  margin: 1em 0;
+  text-align: center;
+}
+.holesCont {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1em;
+  justify-items: center;
+}
+.hole {
+  position: relative;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: #000;
+  overflow: hidden;
+}
+.mole {
+  position: absolute;
+  z-index: 1;
+  height: 60px;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: appear 0.3s linear;
+  pointer-events: none;
+}
+@keyframes appear {
+  from {
+    bottom: -60px;
+  }
+  to {
+    bottom: 0;
+  }
+}
+.buttons {
+  margin-top: 3em;
+  text-align: center;
+}
+.buttons button {
+  padding: 15px 45px;
+  background-color: inherit;
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 3px;
+  outline: none;
+}
+button.stop {
+  display: none;
+}
+.cursor img {
+  position: absolute;
+  height: 125px;
+  z-index: 2;
+  transform: translate(-10px, -40px);
+  pointer-events: none;
+}
+@keyframes hit {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-30deg);
+  }
+}

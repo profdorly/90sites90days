@@ -8,6 +8,8 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #73 - [Jogo da paulada](https://github.com/dorlyneto/90sites90days/tree/master/90sites/73-jogo-da-paulada)
+* Sites #70 ao #72 - estive dodói :(
 * Site #69 - [Ping pong](https://github.com/dorlyneto/90sites90days/tree/master/90sites/69-ping-pong)
 * Site #68 - [Sonoplastia](https://github.com/dorlyneto/90sites90days/tree/master/90sites/68-sonoplastia)
 * Site #67 - [Jogo da galinha](https://github.com/dorlyneto/90sites90days/tree/master/90sites/67-jogo-da-galinha)
