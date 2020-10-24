@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.heading {
+  font-size: 2em;
+  margin: 3em 0 2em;
+}
+.qrBtn {
+  display: block;
+  padding: 10px 45px;
+  margin: 0 auto 2em;
+  background-color: #fff;
+  border: 1px solid #000;
+  outline: none;
+  cursor: pointer;
+}
+
+
+/* Input Field Animation */
+.inputGroup {
+  display: flex;
+  flex-direction: column-reverse;
+  margin: 1em 0;
+}
+.inputGroup input {
+  background-color: inherit;
+  color: #000;
+  font-size: 1em;
+  padding: 30px 10px 10px;
+  border: none;
+  border-bottom: 2px solid gray;
+  outline: none;
+}
+.inputGroup input::placeholder {
+  opacity: 0;
+}
+.inputGroup label {
+  position: absolute;
+  padding-left: 10px;
+  margin-bottom: 2px;
+  color: gray;
+  cursor: pointer;
+  transform: translate(4px, -14px) scale(1.02);
+  transform-origin: left top;
+  font-family: "Poppins";
+  text-transform: uppercase;
+  font-weight: normal;
+}
+.inputGroup input,
+.inputGroup label {
+  transition: 0.4s all ease;
+}
+.inputGroup input:focus,
+.inputGroup input:not(:placeholder-shown) {
+  border-bottom: 2px solid #000;
+}
+.inputGroup input:focus ~ label,
+.inputGroup input:not(:placeholder-shown) ~ label {
+  transform: translate(10px, -35px) scale(0.9);
+  padding: 0;
+  color: #000;
+}
