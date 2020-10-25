@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #75 - [Física](https://github.com/dorlyneto/90sites90days/tree/master/90sites/75-fisica)
 * Site #74 - [Gerador de QR Code](https://github.com/dorlyneto/90sites90days/tree/master/90sites/74-gerador-qr-code)
 * Site #73 - [Jogo da paulada](https://github.com/dorlyneto/90sites90days/tree/master/90sites/73-jogo-da-paulada)
 * Sites #70 ao #72 - estive dodói :(
