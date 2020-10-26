@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <title>Editor de texto | Dorly Neto</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="editor.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>EDITOR WYSIWYG</h1>
+        <textarea name="editor" id="editor" cols="30" rows="10">asdfasdfsdfasdf asdfasdf asdfasdfasd</textarea>
+    </div>
+
+    <span><p>Não sabe o que é WYSIWYG? <a href="https://en.wikipedia.org/wiki/WYSIWYG">Clique aqui</a> e descubra :D</p></span>
+
+    <script src="editor.js"></script>
+
+    <script>
+        var editor = new CDEditor('#editor');
+    </script>
+</body>
+
+</html>
