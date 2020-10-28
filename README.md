@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #78 - [Estilingue](https://github.com/dorlyneto/90sites90days/tree/master/90sites/78-estilingue)
 * Site #77 - [Sinapses](https://github.com/dorlyneto/90sites90days/tree/master/90sites/77-sinapses)
 * Site #76 - [Editor de texto](https://github.com/dorlyneto/90sites90days/tree/master/90sites/76-editor-texto)
 * Site #75 - [Física](https://github.com/dorlyneto/90sites90days/tree/master/90sites/75-fisica)
