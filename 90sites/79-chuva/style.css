@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+html {
+	height:100%;
+	font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+background:#0D343A;
+background:-webkit-gradient(linear,0% 0%,0% 100%, from(rgb(36, 13, 58) ), to(#000000)  );
+background: -moz-linear-gradient(top, rgba(36, 13, 58,1) 0%, rgba(0,0,0,1) 100%);
+overflow:hidden;
+}
+
+.drop {
+  background:-webkit-gradient(linear,0% 0%,2% 100%, from(rgba(13,52,58,1) ), to(rgba(255,255,255,0.6))  );
+  background: -moz-linear-gradient(top, rgba(13,52,58,1) 0%, rgba(255,255,255,.6) 100%);
+	width:1px;
+	height:89px;
+	position: absolute;
+	bottom:200px;
+	-webkit-animation: fall .63s linear infinite;
+  -moz-animation: fall .63s linear infinite;
+}
+
+.button {
+	margin: 20px auto;
+	width: 140px;
+	text-align: center;
+	padding: 10px 20px;
+	border-radius: 4px;
+	background: #b0a1f5;
+	cursor: pointer;
+	color: white;
+}
+/* animate the drops*/
+@-webkit-keyframes fall {
+	to {margin-top:900px;}
+}
+@-moz-keyframes fall {
+	to {margin-top:900px;}
+}
+
