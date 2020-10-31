@@ -8,6 +8,7 @@ Neste [post de blog](https://dorly.blog/montarei-um-site-por-dia-pelos-proximos-
 Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo commit por aqui, contando o que fiz e aprendi.
 
 ## Sites lançados até agora:
+* Site #81 - [Garoa](https://github.com/dorlyneto/90sites90days/tree/master/90sites/81-garoa)
 * Site #80 - [Sucré](https://github.com/dorlyneto/90sites90days/tree/master/90sites/80-sucre)
 * Site #79 - [Chuva](https://github.com/dorlyneto/90sites90days/tree/master/90sites/79-chuva)
 * Site #78 - [Estilingue](https://github.com/dorlyneto/90sites90days/tree/master/90sites/78-estilingue)
