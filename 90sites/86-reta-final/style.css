@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+body {
+    overflow:hidden;
+}
+
+.text-animation {
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+width:80%;
+font-family: 'Muli', sans-serif;
+color:#222;
+font-size:30px;
+}
+
+.text-animation span {
+position:relative;
+opacity:0;
+animation:textAnimation 5s ease-in-out forwards;
+}
+
+@keyframes textAnimation {
+to {
+    top:0;
+    left:0;
+    opacity:1;
+}
+}
+  
