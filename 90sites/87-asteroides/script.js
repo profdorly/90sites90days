@@ -225,7 +225,7 @@ function newGame() {
 
 function newLevel() {
     music.setAsteroidRatio(1);
-    text = "Level " + (level + 1);
+    text = "Nível " + (level + 1);
     textAlpha = 1.0;
     createAsteroidBelt();
 }
