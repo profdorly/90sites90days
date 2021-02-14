@@ -16,7 +16,7 @@ Em resumo: irei lançar um site por dia, durante 90 dias. A cada site, um novo c
 * Site #83 - [Pokédex](https://github.com/dorlyneto/90sites90days/tree/master/90sites/83-pokedex)
 * Site #82 - [Halloween](https://github.com/dorlyneto/90sites90days/tree/master/90sites/82-halloween)
 * Site #81 - [Garoa](https://github.com/dorlyneto/90sites90days/tree/master/90sites/81-garoa)
-* Site #80 - [Le Regret](https://github.com/dorlyneto/90sites90days/tree/master/90sites/80-sucre)
+* Site #80 - [Le Regret](https://github.com/dorlyneto/90sites90days/tree/master/90sites/80-le-regret)
 * Site #79 - [Chuva](https://github.com/dorlyneto/90sites90days/tree/master/90sites/79-chuva)
 * Site #78 - [Estilingue](https://github.com/dorlyneto/90sites90days/tree/master/90sites/78-estilingue)
 * Site #77 - [Sinapses](https://github.com/dorlyneto/90sites90days/tree/master/90sites/77-sinapses)
