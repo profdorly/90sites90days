@@ -1,12 +1,10 @@
 ##### Desafio: desenvolvendo um site por dia por 90 dias 
 
-# [Site #80 - Sucré](https://www.dorlyneto.com/90sites/80-sucre)
+# [Site #80 - Le Regret](https://www.dorlyneto.com/90sites/80-sucre)
 
-Algumas pessoas sabem que eu gosto de produzir música. Junto a isso, tenho a sorte de dividir o lar com uma parceira que, além de cantora, também é apaixonada por belas canções. Vivemos em um lar bastante musical!
+Algumas pessoas sabem que eu gosto de produzir música. Ano passado, compus uma música chamada Le Regret. O site de hoje é um player para divulgar esta música.
 
-Ano passado compomos uma música juntos. Ela é toda instrumental e se chama Sucré. O site de hoje é um player para divulgar esta música.
-
-* [Acesse o site 80 - Sucré](https://www.dorlyneto.com/90sites/80-sucre)
+* [Acesse o site 80 - Le Regret](https://www.dorlyneto.com/90sites/80-sucre)
 
 ## O que aprendi na construção deste site?
  
