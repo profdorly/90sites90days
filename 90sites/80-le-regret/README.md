@@ -1,10 +1,10 @@
 ##### Desafio: desenvolvendo um site por dia por 90 dias 
 
-# [Site #80 - Le Regret](https://www.dorlyneto.com/90sites/80-sucre)
+# [Site #80 - Le Regret](https://www.dorlyneto.com/90sites/80-le-regret)
 
 Algumas pessoas sabem que eu gosto de produzir música. Ano passado, compus uma música chamada Le Regret. O site de hoje é um player para divulgar esta música.
 
-* [Acesse o site 80 - Le Regret](https://www.dorlyneto.com/90sites/80-sucre)
+* [Acesse o site 80 - Le Regret](https://www.dorlyneto.com/90sites/80-le-regret)
 
 ## O que aprendi na construção deste site?
  
