@@ -5,8 +5,8 @@ const audio = document.querySelector("audio");
 
 const data = {
   title:
-    "Sucré",
-  artist: "Dorly & Carox",
+    "Le Regret",
+  artist: "Dorly",
   cover: "files/sucre.jpg",
   file: "files/sucre.mp3"
 };
